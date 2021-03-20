@@ -1,6 +1,5 @@
-# Ultimate React Hook Form
+# React Form
 
-This is example repo for the [Ultimate React Hook Form Youtube video](https://www.youtube.com/watch?v=U-iz8b4RExA)
 
 The form features include:
 
